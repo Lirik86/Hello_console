@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\HelloUser\\Numbers\\Numbers.csproj": {}
+    "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\Numbers\\Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\HelloUser\\Numbers\\Numbers.csproj": {
+    "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\Numbers\\Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\HelloUser\\Numbers\\Numbers.csproj",
+        "projectUniqueName": "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\Numbers\\Numbers.csproj",
         "projectName": "Numbers",
-        "projectPath": "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\HelloUser\\Numbers\\Numbers.csproj",
+        "projectPath": "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\Numbers\\Numbers.csproj",
         "packagesPath": "C:\\Users\\Lirik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\HelloUser\\Numbers\\obj\\",
+        "outputPath": "C:\\Users\\Lirik\\Desktop\\Кирилл\\Обучение\\Язык программирования С#\\lection 1\\Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lirik\\AppData\\Roaming\\NuGet\\NuGet.Config"
